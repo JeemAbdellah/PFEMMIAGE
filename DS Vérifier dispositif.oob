@@ -1459,7 +1459,7 @@ DESTINATION 0 Arial,8,N</a:FontList>
 <o:MessageSymbol Id="o13">
 <a:CreationDate>1464715418</a:CreationDate>
 <a:ModificationDate>1464720925</a:ModificationDate>
-<a:Rect>((-22089,-838), (-4739,626))</a:Rect>
+<a:Rect>((-22089,-838), (-4739,638))</a:Rect>
 <a:ListOfPoints>((-5139,-138),(-21689,-138))</a:ListOfPoints>
 <a:ArrowStyle>8</a:ArrowStyle>
 <a:LineColor>12615808</a:LineColor>
@@ -1482,7 +1482,7 @@ DESTINATION 0 Arial,8,N</a:FontList>
 <o:MessageSymbol Id="o15">
 <a:CreationDate>1464715161</a:CreationDate>
 <a:ModificationDate>1464720855</a:ModificationDate>
-<a:Rect>((-5539,4412), (12288,5872))</a:Rect>
+<a:Rect>((-5539,4412), (12288,5888))</a:Rect>
 <a:ListOfPoints>((11888,5112),(-5139,5112))</a:ListOfPoints>
 <a:ArrowStyle>8</a:ArrowStyle>
 <a:LineColor>12615808</a:LineColor>
@@ -1505,7 +1505,7 @@ DESTINATION 0 Arial,8,N</a:FontList>
 <o:MessageSymbol Id="o18">
 <a:CreationDate>1464715057</a:CreationDate>
 <a:ModificationDate>1464720855</a:ModificationDate>
-<a:Rect>((-22089,18660), (-4739,20202))</a:Rect>
+<a:Rect>((-22089,18660), (-4739,20218))</a:Rect>
 <a:ListOfPoints>((-21689,19360),(-5139,19360))</a:ListOfPoints>
 <a:ArrowStyle>8</a:ArrowStyle>
 <a:LineColor>12615808</a:LineColor>
@@ -1528,7 +1528,7 @@ DESTINATION 0 Arial,8,N</a:FontList>
 <a:CreationDate>1464714972</a:CreationDate>
 <a:ModificationDate>1464720855</a:ModificationDate>
 <a:CenterTextOffset>(279, 1147)</a:CenterTextOffset>
-<a:Rect>((-5539,7500), (12212,8862))</a:Rect>
+<a:Rect>((-5539,7500), (12212,8878))</a:Rect>
 <a:ListOfPoints>((-5139,7988),(11812,8138))</a:ListOfPoints>
 <a:ArrowStyle>1</a:ArrowStyle>
 <a:LineColor>12615808</a:LineColor>
